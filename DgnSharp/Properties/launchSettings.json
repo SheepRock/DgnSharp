@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DgnSharp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\c057008\\Downloads\\27MVTRAFO1.dgn\""
+    }
+  }
+}
